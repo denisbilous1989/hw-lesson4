@@ -1,0 +1,60 @@
+h1 {
+  color: red;
+}
+
+.navi {
+  color: brown;
+}
+
+li>a {
+  color: darkkhaki;
+}
+
+h3 {
+  color: chartreuse;
+}
+
+#title {
+  color: blue;
+}
+
+.text1,
+.text2 {
+  color: yellow;
+}
+
+#selecotr3+p {
+  color: blueviolet;
+}
+
+li>.text4 {
+  color: chocolate;
+}
+
+li>.text5 {
+  color: darkorange;
+}
+
+li>.text6 {
+  color: darkgreen;
+}
+
+.txt1 {
+  color: cadetblue;
+}
+
+.txt2 {
+  color: crimson;
+}
+
+.txt3 {
+  color: firebrick;
+}
+
+.txt4 {
+  color: goldenrod;
+}
+
+.txt5 {
+  color: lightpink;
+}
